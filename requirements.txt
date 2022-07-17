@@ -1,5 +1,5 @@
 aiogram==2.21
 aiohttp== 3.8.1
-aiosigna==1.2.0
+aiosignal==1.2.0
 async-timeout==4.0.2
 requests==2.28.1
